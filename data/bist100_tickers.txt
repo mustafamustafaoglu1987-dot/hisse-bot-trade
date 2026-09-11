@@ -1,0 +1,129 @@
+# BIST evren dosyası — BAŞLANGIÇ LİSTESİ, RESMİ/GÜNCEL BIST100 DEĞİL.
+#
+# BIST 100 bileşenleri Borsa İstanbul tarafından çeyreklik (Ocak/Nisan/
+# Temmuz/Ekim) olarak güncellenir. Bu liste bilinen büyük/likit BIST
+# hisselerinden oluşan bir BAŞLANGIÇ setidir — şu anki resmi BIST100 ile
+# birebir aynı olduğu GARANTİ EDİLEMEZ. Güncel resmi listeyi Borsa
+# İstanbul, KAP veya TradingView'dan alıp bu dosyayı güncelleyin
+# (bir satıra bir BIST kodu, ".IS" eki YAZMAYIN — kod otomatik ekler).
+#
+# "#" ile başlayan satırlar ve boş satırlar yok sayılır.
+
+# Bankacılık
+GARAN
+AKBNK
+ISCTR
+YKBNK
+VAKBN
+HALKB
+TSKB
+ALBRK
+SKBNK
+
+# Holding
+KCHOL
+SAHOL
+DOHOL
+ALARK
+ENKAI
+AGHOL
+TAVHL
+GSDHO
+
+# Demir-çelik / Metal
+EREGL
+KRDMD
+ISDMR
+BRSAN
+
+# Enerji / Petrokimya
+TUPRS
+PETKM
+AYGAZ
+GUBRF
+AKSEN
+ENJSA
+ZOREN
+ODAS
+GWIND
+AKFYE
+YEOTK
+
+# Havacılık / Ulaştırma
+THYAO
+PGSUS
+CLEBI
+RYSAS
+
+# Savunma / Teknoloji
+ASELS
+LOGO
+KAREL
+NETAS
+
+# Otomotiv
+FROTO
+TOASO
+DOAS
+OTKAR
+KARSN
+TTRAK
+
+# Perakende / Tüketim
+BIMAS
+MGROS
+SOKM
+CCOLA
+ULKER
+TATGD
+BANVT
+PINSU
+
+# Telekom
+TCELL
+TTKOM
+
+# Çimento / İnşaat
+AKCNS
+CIMSA
+BTCIM
+OYAKC
+CEMTS
+
+# Gayrimenkul (GYO)
+EKGYO
+ISGYO
+TRGYO
+AKFGY
+
+# Madencilik / Kimya
+# NOT: KOZAL, KOZAA, IPEKE yfinance'te 2026-09-11 itibarıyla veri döndürmedi
+# (muhtemelen kod/listeleme farkı) — doğrulayıp tekrar eklemek isterseniz kontrol edin.
+HEKTS
+SASA
+ALKIM
+GOLTS
+
+# Beyaz eşya / Sanayi
+ARCLK
+VESTL
+BRYAT
+EGEEN
+
+# Sigorta
+AGESA
+ANHYT
+TURSG
+ANSGR
+
+# Cam / Diğer sanayi
+SISE
+
+# Diğer
+ASTOR
+SMRTG
+EUPWR
+CANTE
+KONTR
+MAVI
+TABGD
