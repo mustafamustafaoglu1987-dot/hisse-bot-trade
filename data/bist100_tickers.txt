@@ -1,129 +1,112 @@
-# BIST evren dosyası — BAŞLANGIÇ LİSTESİ, RESMİ/GÜNCEL BIST100 DEĞİL.
+# BIST 100 (XU100) evren dosyası.
+#
+# Kaynak: getmidas.com/canli-borsa/xu100-bist-100-hisseleri (2026-09-11'de
+# çekildi, TradingView BIST:XU100 bileşenler sayfasındaki örneklemle
+# çapraz kontrol edildi — örtüşme tam). Tam 100 hisse.
 #
 # BIST 100 bileşenleri Borsa İstanbul tarafından çeyreklik (Ocak/Nisan/
-# Temmuz/Ekim) olarak güncellenir. Bu liste bilinen büyük/likit BIST
-# hisselerinden oluşan bir BAŞLANGIÇ setidir — şu anki resmi BIST100 ile
-# birebir aynı olduğu GARANTİ EDİLEMEZ. Güncel resmi listeyi Borsa
-# İstanbul, KAP veya TradingView'dan alıp bu dosyayı güncelleyin
-# (bir satıra bir BIST kodu, ".IS" eki YAZMAYIN — kod otomatik ekler).
-#
-# "#" ile başlayan satırlar ve boş satırlar yok sayılır.
+# Temmuz/Ekim) olarak güncellenir, bu yüzden bu liste zamanla eskiyecektir.
+# Güncel resmi listeyi Borsa İstanbul, KAP veya TradingView'dan alıp bu
+# dosyayı güncelleyin (bir satıra bir BIST kodu, ".IS" eki YAZMAYIN — kod
+# otomatik eklenir). "#" ile başlayan satırlar ve boş satırlar yok sayılır.
 
-# Bankacılık
-GARAN
+AEFES
 AKBNK
-ISCTR
-YKBNK
-VAKBN
-HALKB
-TSKB
-ALBRK
-SKBNK
-
-# Holding
-KCHOL
-SAHOL
-DOHOL
-ALARK
-ENKAI
-AGHOL
-TAVHL
-GSDHO
-
-# Demir-çelik / Metal
-EREGL
-KRDMD
-ISDMR
-BRSAN
-
-# Enerji / Petrokimya
-TUPRS
-PETKM
-AYGAZ
-GUBRF
+AKSA
 AKSEN
-ENJSA
-ZOREN
-ODAS
-GWIND
-AKFYE
-YEOTK
-
-# Havacılık / Ulaştırma
-THYAO
-PGSUS
-CLEBI
-RYSAS
-
-# Savunma / Teknoloji
-ASELS
-LOGO
-KAREL
-NETAS
-
-# Otomotiv
-FROTO
-TOASO
-DOAS
-OTKAR
-KARSN
-TTRAK
-
-# Perakende / Tüketim
-BIMAS
-MGROS
-SOKM
-CCOLA
-ULKER
-TATGD
-BANVT
-PINSU
-
-# Telekom
-TCELL
-TTKOM
-
-# Çimento / İnşaat
-AKCNS
-CIMSA
-BTCIM
-OYAKC
-CEMTS
-
-# Gayrimenkul (GYO)
-EKGYO
-ISGYO
-TRGYO
-AKFGY
-
-# Madencilik / Kimya
-# NOT: KOZAL, KOZAA, IPEKE yfinance'te 2026-09-11 itibarıyla veri döndürmedi
-# (muhtemelen kod/listeleme farkı) — doğrulayıp tekrar eklemek isterseniz kontrol edin.
-HEKTS
-SASA
-ALKIM
-GOLTS
-
-# Beyaz eşya / Sanayi
-ARCLK
-VESTL
-BRYAT
-EGEEN
-
-# Sigorta
-AGESA
-ANHYT
-TURSG
+ALARK
+ALTNY
 ANSGR
-
-# Cam / Diğer sanayi
-SISE
-
-# Diğer
+ARCLK
+ASELS
 ASTOR
-SMRTG
-EUPWR
+BALSU
+BERA
+BIMAS
+BRSAN
+BRYAT
+BSOKE
+BTCIM
 CANTE
-KONTR
+CCOLA
+CIMSA
+CVKMD
+CWENE
+DAPGM
+DOAS
+DOHOL
+DSTKF
+ECILC
+EFOR
+EKGYO
+ENERY
+ENJSA
+ENKAI
+EREGL
+ESEN
+EUPWR
+EUREN
+FENER
+FROTO
+GARAN
+GENIL
+GESAN
+GLRMK
+GRSEL
+GRTHO
+GSRAY
+GUBRF
+HALKB
+HEKTS
+IEYHO
+ISCTR
+ISMEN
+IZENR
+KCHOL
+KLRHO
+KRDMD
+KTLEV
+KUYAS
+MAGEN
 MAVI
-TABGD
+MGROS
+MIATK
+MPARK
+OBAMS
+ODAS
+ODINE
+OTKAR
+OYAKC
+PAHOL
+PASEU
+PATEK
+PETKM
+PGSUS
+PSGYO
+QUAGR
+RALYH
+REEDR
+SAHOL
+SARKY
+SASA
+SISE
+SKBNK
+SOKM
+TAVHL
+TCELL
+THYAO
+TKFEN
+TOASO
+TRALT
+TRENJ
+TRMET
+TSKB
+TTKOM
+TUKAS
+TUPRS
+TURSG
+ULKER
+VAKBN
+VESTL
+YKBNK
+ZOREN
